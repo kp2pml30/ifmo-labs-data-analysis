@@ -1,3 +1,3 @@
-[submodule "2/someone-bachelor-thesis-for-da-task"]
-	path = 2/someone-bachelor-thesis-for-da-task
+[submodule "data-analysis/2/someone-bachelor-thesis-for-da-task"]
+	path = data-analysis/2/someone-bachelor-thesis-for-da-task
 	url = git@github.com:kp2pml30/someone-bachelor-thesis-for-da-task.git
